@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotel xmlns="http://venus.sod.asu.edu/WSRepository/xml"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Hotels.xsd">
+  
+  <Hotel Rating="4.2">
+    <Name>Westin1</Name>
+    <Name>Another Name</Name>
+    <Phone>480-968-8881</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe1</City>
+      <State>AZ1</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.5">
+    <Name>Hyatt Regency1</Name>
+    <Phone>602-123-4561</Phone>
+    <Address>
+      <Number>121</Number>
+      <Street>N 2nd St</Street>
+      <City>Phoenix1</City>
+      <State>AZ1</State>
+      <Zip>85001</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Marriott1</Name>
+    <Address NearestAirport="Mesa Gateway">
+      <Number>741</Number>
+      <Street>S Price Rd</Street>
+      <City>Chandler1</City>
+      <State>AZ1</State>
+      <Zip>85281</Zip>
+  </Hotel>
+
+</Hotel>
